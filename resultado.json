@@ -1,0 +1,14 @@
+[
+  {
+    "nome": "João da Silva",
+    "idade": "25",
+    "endereço": "Rua dos Bobos nº 0",
+    "curso": "Direto"
+  },
+  {
+    "nome": "Ana de Souza",
+    "idade": "23",
+    "endereço": "Alameda dos Anjos",
+    "curso": "Sistemas de Informação"
+  }
+]
